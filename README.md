@@ -1,5 +1,14 @@
 # CombatFX-Lite
 
+## Documentation
+
+Full project documentation is available in the `Content/Documentation/` directory.
+
+* **[README / Quick Start](Content/Documentation/README.pdf)** — Project overview and installation guide.
+* **[Technical Documentation](Content/Documentation/DOCUMENTATION.pdf)** — System architecture, Blueprint implementation, execution flows, and API reference.
+* **[FAQ](Content/Documentation/FAQ.pdf)** — Common questions, setup instructions, and troubleshooting.
+* **[Changelog](Content/Documentation/CHANGELOG.pdf)** — Version history, implemented features, and planned improvements.
+
 > **Note:** This repository contains a lightweight combat feedback system developed as a study and portfolio project in Unreal Engine 5. Its primary focus is demonstrating essential combat feedback mechanics using Blueprint Visual Scripting.
 
 ## Technical Details
